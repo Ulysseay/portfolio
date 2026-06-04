@@ -2,7 +2,7 @@
 
 Data analyst le jour, créateur le reste du temps : ce projet transforme mes statistiques de streaming et de contenu en décisions de croissance. Plutôt qu'un dataset générique, j'analyse **mes propres données** — parce que le meilleur moyen de prouver qu'on sait lire la donnée, c'est de s'en servir sur soi.
 
-**Démo en ligne :** _[lien Streamlit à venir]_
+**Démo en ligne :** datlas-ulysse.streamlit.app
 
 ## Question business
 Qu'est-ce qui fait réellement décoller mon contenu ?
